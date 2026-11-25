@@ -1,0 +1,31 @@
+{
+  "name": "나만의 QT 노트",
+  "short_name": "QT 노트",
+  "description": "2026년 12월부터 2027년 12월까지, 매일 성경 한 장을 읽고 기록하는 나만의 QT 노트",
+  "lang": "ko",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FBF9F5",
+  "theme_color": "#FBF9F5",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
